@@ -80,7 +80,7 @@ Collection of all ReVanced documentation.
 1. Checkout the repository recursively:
 
    ```sh
-   git clone -c core.symlinks=true https://github.com/revanced/revanced-documentation --recursive && cd revanced-documentation
+   git clone -c core.symlinks=true https://github.com/Kingslayer9988/revanced-documentation.git --recursive && cd revanced-documentation
    git submodule update --remote
    ```
 
