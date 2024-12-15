@@ -1,11 +1,11 @@
 [submodule "repositories/revanced-manager"]
 	path = repositories/revanced-manager
-	url = https://github.com/revanced/revanced-manager
+	url = https://github.com/Kingslayer9988/revanced-manager
 	branch = main
 [submodule "repositories/revanced-cli"]
 	path = repositories/revanced-cli
-	url = https://github.com/revanced/revanced-cli
+	url = https://github.com/Kingslayer9988/revanced-cli
 	branch = main
 [submodule "repositories/revanced-patcher"]
 	path = repositories/revanced-patcher
-	url = https://github.com/revanced/revanced-patcher
+	url = https://github.com/Kingslayer9988/revanced-patcher
